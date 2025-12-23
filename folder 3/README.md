@@ -1,24 +1,21 @@
-Mini Calculator (React)
+Team Members React App
 
-A simple Mini Calculator built using React and the useState hook.
-It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+A simple React application that displays a list of team members using a reusable component. Each team member shows their name, role, and bio, with data passed via props.
 
-🚀 Features
+Features
 
-Perform basic arithmetic operations: + , - , * , /
+Reusable MemberCard component
 
-Supports decimal numbers
+Displays multiple team members
 
-Clear/reset button
+Uses props to pass data from parent to child
 
-Error handling for invalid expressions
+No images or CSS (simple and beginner-friendly)
 
-Simple and beginner-friendly React logic
-
-🛠️ Technologies Used
+Technologies Used
 
 React
 
-JavaScript (ES6)
+JavaScript
 
-React Hooks (useState)
+React Functional Components
