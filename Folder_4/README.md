@@ -1,21 +1,31 @@
-Team Members React App
+Product Showcase React App
 
-A simple React application that displays a list of team members using a reusable component. Each team member shows their name, role, and bio, with data passed via props.
+A small React application that displays a list of products using reusable card components. Products are rendered dynamically from a static data array, with conditional UI elements based on product properties.
 
 Features
 
-Reusable MemberCard component
+Reusable ProductCard component
 
-Displays multiple team members
+Displays product image, name, and price
 
-Uses props to pass data from parent to child
+Conditional rendering:
 
-No images or CSS (simple and beginner-friendly)
+"Out of Stock" if inStock is false
+
+"Featured" if isFeatured is true
+
+"Premium Product" if price > 100
+
+Hide image if no image is provided
+
+ProductList component renders multiple ProductCards using .map()
+
+Displays "No products available at the moment." if the product list is empty
 
 Technologies Used
 
-React
+React (Functional Components)
 
-JavaScript
+JavaScript ES6
 
-React Functional Components
+Vite (for development server)
