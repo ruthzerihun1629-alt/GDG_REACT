@@ -3,14 +3,14 @@
 A cozy bookstore and coffee shop landing page built with **React**.  
 This project showcases a simple homepage with information about the bookstore, coffee menu, and upcoming features.
 
-
+---
 
 ## 📌 Task Overview
 
 Create a “Landing Page” for a dream project during the course.  
 The task focused on **displaying a static view** using JSX, without complex logic or interactivity.
 
-
+---
 
 ## ✅ Features Implemented
 
@@ -19,7 +19,7 @@ The task focused on **displaying a static view** using JSX, without complex logi
 - React project structure (`App.jsx`, `main.jsx`)
 - Simple styling using default HTML elements
 
-
+---
 
 ## 📊 Screenshots
 
@@ -29,7 +29,7 @@ The task focused on **displaying a static view** using JSX, without complex logi
 
 > (Replace this placeholder with an actual screenshot of your landing page.)
 
-
+---
 
 ## 🚀 How to Run the Project
 
